@@ -3,15 +3,21 @@
   "lang": "en",
   "name": "PWA Lighthouse",
   "scope": "/",
-  "display": "browser",
+  "display": "standalone",
   "start_url": "https://pwa-lightlight.netlify.com/",
-  "short_name": "PWA Lighthouse",
-  "theme_color": "transparent",
-  "description": "",
+  "short_name": "PWA LH",
+  "theme_color": "black",
+  "description": "PWA Lighthouse",
   "orientation": "any",
-  "background_color": "transparent",
+  "background_color": "black",
   "related_applications": [],
   "prefer_related_applications": false,
   "generated": true,
-  "icons": []
+  "icons": [
+    {
+      "src": "https://developers.google.com/web/progressive-web-apps/images/pwa-lighthouse.png",
+      "type": "image/png",
+      "sizes": "1850×1042"
+    }
+  ]
 }
