@@ -1,0 +1,23 @@
+{
+  "name": "pwa-lighthouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve ./public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richard-flosi/pwa-lighthouse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richard-flosi/pwa-lighthouse/issues"
+  },
+  "homepage": "https://github.com/richard-flosi/pwa-lighthouse#readme",
+  "dependencies": {
+    "serve": "^10.1.2"
+  }
+}
