@@ -15,9 +15,9 @@
   "generated": true,
   "icons": [
     {
-      "src": "https://developers.google.com/web/progressive-web-apps/images/pwa-lighthouse.png",
+      "src": "/icon-800x800.png",
       "type": "image/png",
-      "sizes": "1850×1042"
+      "sizes": "800×800"
     }
   ]
 }
